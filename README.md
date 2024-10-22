@@ -1,0 +1,1 @@
+I analyzed Diwali sales data using the Pandas library in Python to uncover insights such as top-selling products, customer behavior, and sales trends. The analysis involved data cleaning, aggregation, and visualization to provide actionable insights.
